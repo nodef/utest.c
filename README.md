@@ -1,6 +1,19 @@
 ## About ##
 
-µTest is an ultra-lightweight micro unit test framework for C99. It is the sister framework of [µTest for C++11](https://github.com/evolutional/upptest).
+µTest is an ultra-lightweight micro unit test framework for C99, by [Oli Wilkinson](https://github.com/evolutional). It is the sister framework of [µTest for C++11](https://github.com/evolutional/upptest).
+
+
+## Installation ##
+
+Run:
+```bash
+$ npm i utest.c
+```
+
+And then include `utest.h` as follows:
+```c
+#include "node_modules/utest.c/utest.h"
+```
 
 
 ## Compiling ##
@@ -203,3 +216,10 @@ Planned features (in no order):
 ## License ##
 
 µTest is free and unencumbered software released into the public domain. See UNLICENSE for details.
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/utest.c)
