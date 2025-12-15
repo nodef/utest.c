@@ -1,0 +1,23 @@
+{
+  "name": "utest.c",
+  "version": "1.2017.6",
+  "description": "An ultra-lightweight, micro unit test framework for C99 presented as a single-header; Oli Wilkinson (2015).",
+  "keywords": [
+    "c",
+    "library",
+    "unit-test",
+    "testing",
+    "header-only",
+    "c99"
+  ],
+  "homepage": "https://github.com/nodef/utest.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/utest.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/utest.c.git"
+  },
+  "license": "UNLICENSED",
+  "main": "utest.h"
+}
