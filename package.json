@@ -1,0 +1,24 @@
+{
+  "name": "utest-h.c",
+  "version": "1.2025.9",
+  "description": "🧪 single header unit testing framework for C and C++; Neil Henning (2015).",
+  "keywords": [
+    "c",
+    "library",
+    "unit-testing",
+    "header-only",
+    "single-header",
+    "framework",
+    "test"
+  ],
+  "homepage": "https://github.com/nodef/utest-h.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/utest-h.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/utest-h.c.git"
+  },
+  "license": "UNLICENSED",
+  "main": "utest-h.h"
+}
